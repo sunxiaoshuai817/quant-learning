@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+
+# 本地市场数据
+*.pkl
+*.pickle
+*.parquet
+**/smart_money_export/
+
+# 压缩文件
+*.zip
